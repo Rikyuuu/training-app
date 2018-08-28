@@ -1,2 +1,2 @@
 # training-app
-My first repo Maven
+Mon premier dépôt Maven
